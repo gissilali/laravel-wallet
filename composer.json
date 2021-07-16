@@ -1,8 +1,9 @@
 {
-    "name": "depsimon/laravel-wallet",
+    "name": "gissilali/laravel-wallet",
     "description": "Easy to use virtual wallet for your app",
     "keywords": [
         "depsimon",
+        "gissilali",
         "laravel-wallet",
         "virtual",
         "currency",
@@ -21,7 +22,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/database": "~5.6|^6.0|^7.0|^8.0"
+        "illuminate/database": "^6.0|^7.0|^8.0"
     },
     "autoload": {
         "psr-4": {
